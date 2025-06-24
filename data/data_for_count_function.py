@@ -1,12 +1,12 @@
 class PreperingDataStringAndCounts:
 
-    STRING_RUS = 'Звездные Войны: Новая надежда'
+    STRING_RUS = 'Звездные Войны; Новая надежда'
     COUNT_VOWELS_RUS = 11
 
-    STRING_ENG = 'Star Wars: Empire strikes back'
+    STRING_ENG = 'Star Wars% Empire strikes back'
     COUNT_VOWELS_ENG = 8
 
-    STRING_MASH = 'Звездные Войны: Return of jedi'
+    STRING_MASH = 'ЗвЕздные Войны: Return of jedI?'
     COUNT_VOWELS_MASH = 10
 
 class DataStringAndCounts:

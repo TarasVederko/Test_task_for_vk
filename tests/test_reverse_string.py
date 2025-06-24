@@ -11,5 +11,3 @@ class TestReverseString:
         function = functions.FunctionForTest()
         result = function.reverse_string(string)
         assert result == string_r
-
-
